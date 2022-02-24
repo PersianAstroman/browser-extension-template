@@ -101,7 +101,7 @@ Extension icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com
 
 ## Extensions created using this template
 
-- [notlmn/copy-as-markdown](https://github.com/notlmn/copy-as-markdown) - Browser extension to copy hyperlinks, images, and selected text as Markdown.
+- [nothing yet](https://github.com/x/y) - Browser extension to ... .
 
 ## License
 
